@@ -1,2 +1,2 @@
-# Todos-App
-A Simple Todo List App using Redux and React Native
+# todo-app
+A simple todo app using react-native
