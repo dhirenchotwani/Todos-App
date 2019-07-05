@@ -1,2 +1,2 @@
 # todo-app
-A simple todo app using react-native
+A simple todo app using react-native and redux
